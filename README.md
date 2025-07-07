@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# Veterinaria App
+
+Este proyecto en Next.js con Supabase permite gestionar:
+- Clientes
+- Mascotas
+- Visitas y vacunas (próximamente)
+
+## Cómo arrancar localmente
+
+1. Clonar el repo  
+2. Crear `.env.local` con tus claves de Supabase y Twilio  
+3. `npm install`  
+4. `npm run dev`  
